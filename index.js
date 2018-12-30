@@ -8,5 +8,8 @@ function theBeatlesPlay (musiciansArr, instrumentsArr) {
 }
 
 function johnLennonFacts (factsArr) {
-
+  while () {
+    factsArr[i] + '!!!'
+  }
+return factsArr
 }
